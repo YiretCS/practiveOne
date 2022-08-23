@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+      
+      caption {color:#800000;}
+      h1 {color:#800000;}
+			table, td { border: 7px solid #800000;}
+      
+      caption, table { border: 6px solid black; padding: 10px;background: orange;}
+      
+		</style>
+	</head>
+
+	<body> 
+    <h1>Systems</h1>
+<table>
+  <caption>Popular OS In 2020</caption>
+  
+    <th>OS</th>
+    <th>Version</th>
+    <th>Marker</th>
+  
+    <tr>
+      <td>Windows</td>
+      <td>10</td>
+      <td>Microsoft</td>
+    </tr>
+      <td>MacOS</td>
+      <td>10.16</td>
+      <td>Apple</td>
+    <tr>
+      <td>Linux</td>
+      <td>5.9</td>
+      <td>Open Source</td>
+    </tr>
+</table>
+    </body>
+</html>
